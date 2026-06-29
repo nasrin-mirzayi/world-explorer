@@ -3,6 +3,8 @@ world explorer is a next.js projects.
 used taiwindcss for styling
 focused on api fetchind and dynamic servers.
 in this project user can see country, view details and enjoy a simple navigate pages.
+--
+used layout. include of navbar,meta data , children and footer avaliable on evey page.
 ---
 -features:
 -app router
