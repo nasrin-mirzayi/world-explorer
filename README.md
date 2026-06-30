@@ -1,12 +1,15 @@
 # world-explorer
-world explorer is a next.js projects.
-used taiwindcss for styling
-focused on api fetchind and dynamic servers.
-in this project user can see country, view details and enjoy a simple navigate pages.
+world explorer is a next.js project.
+focused on fetching api and dynamic servers.
+in this project users can see country, search a country by name,view details and enjoy  simple navigate pages.
 --
-used layout. include of navbar,meta data , children and footer avaliable on evey page.
+layout (nav, children, footer, metadata)
+style ---> tailwindcss
+page.tsx ---> main page
+
 ---
--features:
+Features:
+
 -app router
 -file bsed routing
 -dynamic routes
@@ -21,8 +24,34 @@ api used: <br>
 https://api.restcountries.com/countries/v5?limit=25
 
 ---
-i want to be honest. my laptop was destroyed and i couldn't finish this project as well as possible i feel it's incomplete and not a really good project. even i couldnt work on search page so i missed.
-hopefully understand. 
+pages: <br>
+
+Home
+title + herro banner + button to country page.
+---
+Country
+force cache <br>
+fetched 25 countries <br>
+display eacch country name, flag,language... <br>
+detail button for more details
+---
+
+Search <br>
+search by name<br> 
+client component<br>
+used usestate<br>
+---
+About <br>
+what's project about <br>
+which api used <br>
+which topic considered <br>
+---
+components: <br>
+Navbar <br>
+Footer <br>
+CountrySearch <br>
+CountryCard
+
 ---
 home:
 <img width="1366" height="768" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/f2c21f68-ed7b-418d-82f5-c5c0cac60902" />
