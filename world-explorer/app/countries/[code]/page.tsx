@@ -13,7 +13,7 @@ export default async function CountryDetails({ params }: Props) {
   const response = await fetch(
     `https://api.restcountries.com/countries/v5/codes.alpha_3/${code}`,
     {
-      cache: "force-cache",
+      cache: "no-store",
       headers: {
         Authorization:
           "Bearer rc_live_efdee4290ecb4cab8f9dc13c4f569407",
