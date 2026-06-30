@@ -30,6 +30,11 @@ home:
 about:
 <img width="1366" height="768" alt="Screenshot (317)" src="https://github.com/user-attachments/assets/14671437-d2f4-4998-a44b-8dd05b60a4c2" />
 ---
+search:
+<img width="1366" height="768" alt="Screenshot (323)" src="https://github.com/user-attachments/assets/9b49821c-752f-4604-9f18-1c4330404c2f" />
+<img width="1366" height="768" alt="Screenshot (324)" src="https://github.com/user-attachments/assets/fd6dfcd5-a10d-4e4e-adc2-033648a4c746" />
+<img width="1366" height="768" alt="Screenshot (325)" src="https://github.com/user-attachments/assets/bc600a5a-e076-40fc-913f-d8d4239a3c93" />
+
 country page:
 <img width="1366" height="768" alt="Screenshot (318)" src="https://github.com/user-attachments/assets/3c6cd679-6d99-46a9-9cd0-4d2f2e65b8f1" />
 ---
