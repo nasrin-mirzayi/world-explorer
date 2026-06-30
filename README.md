@@ -55,6 +55,8 @@ CountrySearch <br>
 CountryCard
 
 ---
+note: some pictures are from past where search page was not completed so that's why search page link is not on navigation. but i updated correctly and now search page appear in navigation part . so u can be sure about the correction of my layout and navbar . it's just about my laptop do not work correctly to take new pictures. but they are all correct🙂
+---
 home:
 <img width="1366" height="768" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/f2c21f68-ed7b-418d-82f5-c5c0cac60902" />
 ---
