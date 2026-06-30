@@ -10,15 +10,17 @@ page.tsx ---> main page <br>
 ---
 Features: 
 <br>
--app router
--file bsed routing
--dynamic routes
--server components
--real api fetching
--client component
--static rendering
--dynamic rendering
--using await and async
+-app router <br>
+-file bsed routing <br>
+-shared layouts <br>
+-dynamic routes <br>
+-server + client components <br>
+-real api fetching <br>
+-client component <br>
+-static rendering <br>
+-dynamic rendering <br>
+-using await and async <br>
+-Search functionality 
 ---
 api used: <br>
 https://api.restcountries.com/countries/v5?limit=25
