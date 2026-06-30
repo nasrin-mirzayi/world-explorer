@@ -3,13 +3,13 @@ world explorer is a next.js project.
 focused on fetching api and dynamic servers.
 in this project users can see country, search a country by name,view details and enjoy  simple navigate pages.
 --
-layout (nav, children, footer, metadata)
-style ---> tailwindcss
-page.tsx ---> main page
+layout (nav, children, footer, metadata) <br>
+style ---> tailwindcss <br>
+page.tsx ---> main page <br>
 
 ---
-Features:
-
+Features: 
+<br>
 -app router
 -file bsed routing
 -dynamic routes
@@ -26,10 +26,10 @@ https://api.restcountries.com/countries/v5?limit=25
 ---
 pages: <br>
 
-Home
+Home: <br>
 title + herro banner + button to country page.
 ---
-Country
+Country: <br>
 force cache <br>
 fetched 25 countries <br>
 display eacch country name, flag,language... <br>
